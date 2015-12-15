@@ -1,7 +1,7 @@
 name: FeelGood
 favicon: null
 layout_spectrum: 0.07183128478936851
-typography_spectrum: 0.6871707448735833
+typography_spectrum: 0.62603
 title: FeelGood Media Group
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.573407823452726
+    - '#000000'
+    - '#ffffff'
+    - '#c59800'
+    - '#005a8e'
+    - '#2fc3fc'
+  brandStrength: 0.5625
   lightness: 0.8343214092310518
-  saturation: 0.6904777036979795
-  rhythmicContrast: 0.29078235593624413
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
